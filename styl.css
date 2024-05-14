@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+header {
+background-color: red;
+height: 50px;
+color: white;
+text-align: center;
+}
+#zawartosc {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 700px;
+}
+#niebieska {
+    background-color: blue;
+    width: 30%;
+    color: white;
+}
+#zielona {
+    background-color: green;
+    width: 70%;
+    color: white;
+}
